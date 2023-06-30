@@ -234,7 +234,6 @@ params:
               count: "3"
               title: "Recent Posts"
               enable: true
-              disableFeaturedImage: false
             socialNetworks:
               github: "https://github.com/BiancaSeleveschi?tab=repositories"
               linkedin: "https://www.linkedin.com/in/bianca-seleveschi/"
