@@ -121,20 +121,21 @@ params:
     subtitle: "I am an (aspiring) front-end software developer"
     content: "A passionate front-end software developer. Passionate about solving problems using technology. 
     I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
-    image: /images/hero.svg
+    image: /images/image-CV.jpg
     # roundImage: true # Make hero image circular | default false
     button:
       enable: true
       name: "Resume"
-      url: "#"
+      image: ''
+      url: "https://www.canva.com/design/DAFafMLtTpw/5_ykEQan5Li6tdVX1U-HSg/edit?utm_content=DAFafMLtTpw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
       download: true
       newPage: false
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
-          url: https://example.com
-        - icon: fab fa-twitter
-          url: https://example.com
+          url: https://github.com/BiancaSeleveschi?tab=repositories
+        - icon: fab fa-linkedin
+          url: https://www.linkedin.com/in/bianca-seleveschi/
       customIcons:
         - icon: /fav.png
           url: "https://example.com"
@@ -175,20 +176,20 @@ params:
         company: "Stomestet"
         url: "https://stomestet.ro/"
         date: "Nov 2021 - June 2022"
-        content: " | Preparing patients for dental work. 
-        |  Helping with infection control by sterilizing and disinfecting instruments, setting up instrument trays, preparing materials, and assisting with dental procedures.
-        |  Assisting dentists in managing medical and dental emergencies when necessary.
-         | Forming preliminary impressions for study casts and occlusal registrations for mounting study casts.
-         | Ordering dental supplies and maintaining dental equipment inventory."
+        content: " | Preparing patients for dental work 
+        |  Helping with infection control by sterilizing and disinfecting instruments, setting up instrument trays, preparing materials, and assisting with dental procedures
+        |  Assisting dentists in managing medical and dental emergencies when necessary
+         | Forming preliminary impressions for study casts and occlusal registrations for mounting study casts
+         | Ordering dental supplies and maintaining dental equipment inventory"
       - job: "Dental Assistant"
         company: "Cosem"
         date: "Nov 2016 - April 2018"
         url: "https://www.cosem.fr/"
-        content: "  | Preparing patients for dental work.
-       | Helping with infection control by sterilizing and disinfecting instruments, setting up instrument trays, preparing materials, and assisting with dental procedures.
-       | Assisting dentists in managing medical and dental emergencies when necessary.
-       | Assisting dental hygienists with procedures when necessary.
-      | Providing postoperative instructions as directed by the dentist."
+        content: "  | Preparing patients for dental work
+       | Helping with infection control by sterilizing and disinfecting instruments, setting up instrument trays, preparing materials, and assisting with dental procedures
+       | Assisting dentists in managing medical and dental emergencies when necessary
+       | Assisting dental hygienists with procedures when necessary
+      | Providing postoperative instructions as directed by the dentist"
 
 
   # Education
