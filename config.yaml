@@ -228,8 +228,3 @@ params:
             #   formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
             #   emailCaption: "Enter your email address"
             #   messageCaption: "Enter your message here"
-   footer:
-     enable: true
-   socialNetworks:
-   github: "https://github.com/BiancaSeleveschi?tab=repositories"
-   linkedin: "https://www.linkedin.com/in/bianca-seleveschi/"
