@@ -121,13 +121,13 @@ params:
     subtitle: "I am an (aspiring) front-end software developer"
     content: "A passionate front-end software developer. Passionate about solving problems using technology. 
     I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
-    image: /images/image-CV.jpg
+    image: /images/profile-image.jpg
     # roundImage: true # Make hero image circular | default false
     button:
       enable: true
       name: "Resume"
-      image: ''
-      url: "https://www.canva.com/design/DAFafMLtTpw/5_ykEQan5Li6tdVX1U-HSg/edit?utm_content=DAFafMLtTpw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+      image: /images/cv-image.jpg
+#      url: "https://www.canva.com/design/DAFafMLtTpw/5_ykEQan5Li6tdVX1U-HSg/edit?utm_content=DAFafMLtTpw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
       download: true
       newPage: false
     socialLinks:
