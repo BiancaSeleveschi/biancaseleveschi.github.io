@@ -219,37 +219,3 @@ params:
         content: ""
 
 
-
-      #Contact
-      contact:
-        enable: true
-        # title: "Custom Name"
-        # formspree:
-        #   enable: true # `contact.email` value will be ignored
-        #   formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
-        #   emailCaption: "Enter your email address"
-        #   messageCaption: "Enter your message here"
-      footer:
-        recentPosts:
-          path: "blogs"
-      # List pages like blogs and posts
-      listPages:
-        disableFeaturedImage: false
-      # Single pages like blog and post
-      singlePages:
-        readTime:
-          enable: true
-          content: "min read"
-        scrollprogress:
-          enable: true
-      # For translations
-      terms:
-        read: "Read"
-        toc: "Table Of Contents"
-        copyright: "All rights reserved"
-        pageNotFound: "Page not found"
-        emailText: "Check out this site"
-      datesFormat:
-        article: "Jan 2, 2006"
-        articleList: "Jan 2, 2006"
-        articleRecent: "Jan 2, 2006"
