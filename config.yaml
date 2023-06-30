@@ -220,9 +220,9 @@ params:
           contact:
             enable: true
             # title: "Custom Name"
-            content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
-            email: bianca.seleveschi@gmail.com
-            btnName: Mail me
+            content: "My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!"
+            email: "bianca.seleveschi@gmail.com"
+            btnName: "Mail me"
             # formspree:
             #   enable: true # `contact.email` value will be ignored
             #   formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
@@ -231,10 +231,10 @@ params:
           footer:
             recentPosts:
               path: "blogs"
-              count: 3
-              title: Recent Posts
+              count: "3"
+              title: "Recent Posts"
               enable: true
               disableFeaturedImage: false
             socialNetworks:
-              github:  https://github.com/BiancaSeleveschi?tab=repositories
-              linkedin: https://www.linkedin.com/in/bianca-seleveschi/
+              github: "https://github.com/BiancaSeleveschi?tab=repositories"
+              linkedin: "https://www.linkedin.com/in/bianca-seleveschi/"
