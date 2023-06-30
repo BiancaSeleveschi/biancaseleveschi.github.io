@@ -172,14 +172,14 @@ params:
     # title: "Custom Name"
     items:
       - job: "Senior Software Developer"
-        company: "Facebook"
+        company: "Stomestet"
         companyUrl: "https://example.com"
-        date: "Jan 2022 - present"
-        featuredLink:
-          enable: true
-          name: "View the project"
-          url: "https://example.com"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+        date:  "Nov 2021 - June 2022"
+        content: "Preparing patients for dental work.
+  Helping with infection control by sterilizing and disinfecting instruments, setting up instrument trays, preparing materials, and assisting with dental procedures.
+  Assisting dentists in managing medical and dental emergencies when necessary.
+  Forming preliminary impressions for study casts and occlusal registrations for mounting study casts.
+  Ordering dental supplies and maintaining dental equipment inventory."
       - job: "Software Developer"
         company: "Amazon"
         companyUrl: "https://example.com"
