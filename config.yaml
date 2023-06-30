@@ -202,17 +202,24 @@ params:
         school:
           name: "Just code IT"
         date: "2022 - 2023"
-        content:
+        content: Extracurricular Activities
+          - Lorem ipsum dolor sit amet consectetur adipisicing elit.
+          - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
       - title: "Licentiate Degree in Economics"
         school:
           name: "Technical University of Cluj Napoca"
         date: "2018 - 2021"
-        content:
+        content: Extracurricular Activities
+          - Lorem ipsum dolor sit amet consectetur adipisicing elit.
+          - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
       - title: "Licentiate Degree, General Nurse"
         school:
           name: "Post Secondary School Henri Coandă"
         date: "2018 - 2021"
-        content:
+        content: Extracurricular Activities
+          - Lorem ipsum dolor sit amet consectetur adipisicing elit.
+          - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+
 
 
   # projects
@@ -238,16 +245,82 @@ params:
           - icon: fab fa-twitter
             url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
 
+      - title: Image Converter
+        content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
+        image: /images/projects/converter.jpg
+        featured:
+          name: Demo
+          link: https://django-converter.herokuapp.com
+        badges:
+          - "Django"
+          - "Bootstrap"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/gurusabarish/converter
 
-          #Contact
-          contact:
+      - title: Hugo Profile V2
+        content: A clean and simple Hugo template for personal portfolio and blog.
+        image: /images/projects/profile2.jpg
+        featured:
+          name: Demo V2
+          link: https://hugo-profile-2.netlify.app
+        badges:
+          - "Hugo"
+          - "Bootstrap"
+          - "Javascript"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/gurusabarish/HugoProfileV2
+
+
+        #Contact
+        contact:
+          enable: true
+          # title: "Custom Name"
+          content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
+          email: gurusabarisha@gmail.com
+          btnName: Mail me
+          # formspree:
+          #   enable: true # `contact.email` value will be ignored
+          #   formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
+          #   emailCaption: "Enter your email address"
+          #   messageCaption: "Enter your message here"
+
+        footer:
+          recentPosts:
+            path: "blogs"
+            count: 3
+            title: Recent Posts
             enable: true
-            # title: "Custom Name"
-            content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
-            email: bianca.seleveschi@gmail.com
-            btnName: Mail me
-            # formspree:
-            #   enable: true # `contact.email` value will be ignored
-            #   formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
-            #   emailCaption: "Enter your email address"
-            #   messageCaption: "Enter your message here"
+            disableFeaturedImage: false
+          socialNetworks:
+            github: https://github.com
+            linkedin: https://linkedin.com
+            twitter: https://twitter.com
+            instagram: https://instagram.com
+            facebook: https://facebook.com
+
+        # List pages like blogs and posts
+        listPages:
+          disableFeaturedImage: false
+
+        # Single pages like blog and post
+        singlePages:
+          readTime:
+            enable: true
+            content: "min read"
+          scrollprogress:
+            enable: true
+
+        # For translations
+        terms:
+          read: "Read"
+          toc: "Table Of Contents"
+          copyright: "All rights reserved"
+          pageNotFound: "Page not found"
+          emailText: "Check out this site"
+
+        datesFormat:
+          article: "Jan 2, 2006"
+          articleList: "Jan 2, 2006"
+          articleRecent: "Jan 2, 2006"
