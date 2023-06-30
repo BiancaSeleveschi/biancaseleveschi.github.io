@@ -144,8 +144,11 @@ params:
     title: "About Me"
     image: "/images/me.png"
     content: |-
-      Ambitious and determined, I strongly believe that when the desire to evolve is combined with passion, success emerges. I admire hardworking people, capable of sacrificing their time to fulfill a dream, but not their principles or soul. 
-      Motivated and thirsty for knowledge, I want to invest in myself and the company I will work for, not to remain only at the stage of passion, but to become a professional.
+
+      I'm only one more drop in this ocean of people, trying to get better, evolve and do or, at least, try to make other people's lives better. I know we can do good to people in so many ways, but with the help of technology I think we can greatly facilitate people's lives.
+    
+      Following the programming course, I am more motivated and determined than ever. I want to invest in myself and the company I will work for, not to remain only at the stage of passion, but to become a professional.
+    
 
     skills:
       enable: true
