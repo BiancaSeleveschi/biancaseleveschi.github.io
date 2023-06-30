@@ -164,3 +164,31 @@ params:
         - "Algorithms"
         - "Data Structures"
         - "Bootstrap"
+
+
+  # Experience
+  experience:
+    enable: true
+    # title: "Custom Name"
+    items:
+      - job: "Dental Assistant"
+        company: "Stomestet"
+        date: "Nov 2021 - June 2022"
+          companyUrl: "https://example.com"
+          url: "https://example.com"
+        content: Preparing patients for dental work.
+  Helping with infection control by sterilizing and disinfecting instruments, setting up instrument trays, preparing materials, and assisting with dental procedures.
+  Assisting dentists in managing medical and dental emergencies when necessary.
+  Forming preliminary impressions for study casts and occlusal registrations for mounting study casts.
+  Ordering dental supplies and maintaining dental equipment inventory.
+  - job: "Dental Assistant"
+    company: "Cosem"
+    date: "Nov 2016 - April 2018"
+      url: "https://example.com"
+    content: Preparing patients for dental work.
+  Helping with infection control by sterilizing and disinfecting instruments, setting up instrument trays, preparing materials, and assisting with dental procedures.
+  Assisting dentists in managing medical and dental emergencies when necessary.
+  Assisting dental hygienists with procedures when necessary.
+  Providing postoperative instructions as directed by the dentist.
+
+
