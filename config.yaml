@@ -185,7 +185,7 @@ params:
         date: "Nov 2016 - April 2018"
         url: "https://www.cosem.fr/"
         content: " - Preparing patients for dental work."
-                  " - Helping with infection control by sterilizing and disinfecting instruments, setting up instrument trays, preparing materials, and assisting with dental procedures.
+                   " - Helping with infection control by sterilizing and disinfecting instruments, setting up instrument trays, preparing materials, and assisting with dental procedures.
   - Assisting dentists in managing medical and dental emergencies when necessary.
   - Assisting dental hygienists with procedures when necessary.
   - Providing postoperative instructions as directed by the dentist."
@@ -202,29 +202,29 @@ params:
           name: "Just code IT"
           url: "https://www.justcodeit.ro/"
         date: "2022 - 2023"
-        content:
+        content: ""
       - title: "Licentiate Degree in Economics"
         school:
           name: "Technical University of Cluj Napoca"
           url: "https://www.utcluj.ro/"
         date: "2018 - 2021"
-        content:
+        content: ""
       - title: "Licentiate Degree, General Nurse"
         school:
           name: "Post Secondary School Henri Coandă"
           url: "https://univ-henricoanda.ro/scoala-postliceala-henri-coanda-baia-mare/"
         date: "2018 - 2021"
-        content:
+        content: ""
 
- #Contact
+  #Contact
   contact:
     enable: true
-   # title: "Custom Name"
-   content: "My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!"
-   email: "bianca.seleveschi@gmail.com"
-   btnName: "Mail me"
-            # formspree:
-            #   enable: true # `contact.email` value will be ignored
-            #   formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
-            #   emailCaption: "Enter your email address"
-            #   messageCaption: "Enter your message here"
+    # title: "Custom Name"
+    content: "My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!"
+    email: "bianca.seleveschi@gmail.com"
+    btnName: "Mail me"
+      # formspree:
+      #   enable: true # `contact.email` value will be ignored
+      #   formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
+      #   emailCaption: "Enter your email address"
+    #   messageCaption: "Enter your message here"
