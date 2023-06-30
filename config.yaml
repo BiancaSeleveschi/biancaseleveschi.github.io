@@ -126,8 +126,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      image: /images/cv-image.jpg
-#      url: "https://www.canva.com/design/DAFafMLtTpw/5_ykEQan5Li6tdVX1U-HSg/edit?utm_content=DAFafMLtTpw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+      url: "https://www.canva.com/design/DAFafMLtTpw/qwaDtJV-MZLgrvEAqvuj7Q/view?utm_content=DAFafMLtTpw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"
       download: true
       newPage: false
     socialLinks:
@@ -136,9 +135,6 @@ params:
           url: https://github.com/BiancaSeleveschi?tab=repositories
         - icon: fab fa-linkedin
           url: https://www.linkedin.com/in/bianca-seleveschi/
-      customIcons:
-        - icon: /fav.png
-          url: "https://example.com"
 
   # About
   about:
@@ -147,7 +143,7 @@ params:
     image: "/images/me.png"
     content: |-
 
-      I'm only one more drop in this ocean of people, trying to get better, evolve and do or, at least, try to make other people's lives better. I know we can do good to people in so many ways, but with the help of technology I think we can greatly facilitate people's lives.
+      I am only one more drop in this ocean of people, trying to get better, evolve and do or, at least, try to make other people's lives better. I know we can do good to people in so many ways, but with the help of technology I think we can greatly facilitate people's lives.
       
       Following the programming course, I am more motivated and determined than ever. I want to invest in myself and the company I will work for, not to remain only at the stage of passion, but to become a professional.
     
@@ -217,6 +213,13 @@ params:
         date: "2018 - 2021"
         content: ""
 
+  #Projects
+  projects:
+  # title: "Custom Name"
+  items:
+    - title: "Hugo Profile"
+      content: "A highly customizable and mobile first Hugo template for personal portfolio and blog."
+
 
   #Contact
   enable: true
@@ -227,9 +230,4 @@ params:
     github: "https://github.com/BiancaSeleveschi?tab=repositories"
     linkedin: "https://www.linkedin.com/in/bianca-seleveschi/"
 
-  #Projects
-  projects:
-  # title: "Custom Name"
-  items:
-    - title: "Hugo Profile"
-      content: "A highly customizable and mobile first Hugo template for personal portfolio and blog."
+
