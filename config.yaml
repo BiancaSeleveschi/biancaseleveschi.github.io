@@ -173,7 +173,7 @@ params:
     items:
       - job: "Dental Assistant"
         company: "Stomestet"
-        urle: "https://stomestet.ro/"
+        url: "https://stomestet.ro/"
         date: "Nov 2021 - June 2022"
         content: " - Preparing patients for dental work. 
   - Helping with infection control by sterilizing and disinfecting instruments, setting up instrument trays, preparing materials, and assisting with dental procedures.
@@ -183,6 +183,7 @@ params:
       - job: "Dental Assistant"
         company: "Cosem"
         date: "Nov 2016 - April 2018"
+        url: "https://www.cosem.fr/"
         content: " - Preparing patients for dental work."
                   " - Helping with infection control by sterilizing and disinfecting instruments, setting up instrument trays, preparing materials, and assisting with dental procedures.
   - Assisting dentists in managing medical and dental emergencies when necessary.
