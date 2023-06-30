@@ -192,34 +192,6 @@ params:
   Providing postoperative instructions as directed by the dentist.
 
 
-  # Education
-  education:
-    enable: true
-    # title: "Custom Name"
-    index: false
-    items:
-      - title: "Front-End Developer Certified"
-        school:
-          name: "Just code IT"
-        date: "2022 - 2023"
-        content: Extracurricular Activities
-          - Lorem ipsum dolor sit amet consectetur adipisicing elit.
-          - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-      - title: "Licentiate Degree in Economics"
-        school:
-          name: "Technical University of Cluj Napoca"
-        date: "2018 - 2021"
-        content: Extracurricular Activities
-          - Lorem ipsum dolor sit amet consectetur adipisicing elit.
-          - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-      - title: "Licentiate Degree, General Nurse"
-        school:
-          name: "Post Secondary School Henri Coandă"
-        date: "2018 - 2021"
-        content: Extracurricular Activities
-          - Lorem ipsum dolor sit amet consectetur adipisicing elit.
-          - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-
 
 
   # projects
