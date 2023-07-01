@@ -23,17 +23,6 @@ markup:
       unsafe: true
 
 Menus:
-  main:
-    - identifier: blog
-      name: Blog
-      title: Blog posts
-      url: /blogs
-      weight: 1
-    - identifier: gallery
-      name: Gallery
-      title: Blog posts
-      url: /gallery
-      weight: 2
     #Dropdown menu
     # - identifier: dropdown
     #   title: Example dropdown menu
@@ -118,8 +107,8 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Bianca."
-    subtitle: "I am an (aspiring) front-end software developer"
-    content: "A passionate front-end software developer. Passionate about solving problems using technology. 
+    subtitle: "Front-end software developer passionate about solving problems"
+    content: "Passionate about solving problems using technology. 
     I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
     image: /images/profile-image.jpg
     # roundImage: true # Make hero image circular | default false
@@ -168,6 +157,11 @@ params:
     enable: true
     # title: "Custom Name"
     items:
+      - job: "Software Developer Trainee"
+        company: "Just code IT"
+        url: "https://www.justcodeit.ro/"
+        date: "2022-20323"
+        content: " | "
       - job: "Dental Assistant"
         company: "Stomestet"
         url: "https://stomestet.ro/"
@@ -200,13 +194,13 @@ params:
           url: "https://www.justcodeit.ro/"
         date: "2022 - 2023"
         content: ""
-      - title: "Licentiate Degree in Economics"
+      - title: "Bachelor's degree in Economics"
         school:
           name: "Technical University of Cluj Napoca"
           url: "https://www.utcluj.ro/"
         date: "2018 - 2021"
         content: ""
-      - title: "Licentiate Degree, General Nurse"
+      - title: "Bachelor's degree, General Nurse"
         school:
           name: "Post Secondary School Henri Coandă"
           url: "https://univ-henricoanda.ro/scoala-postliceala-henri-coanda-baia-mare/"
