@@ -23,23 +23,23 @@ markup:
       unsafe: true
 
 Menus:
-    #Dropdown menu
-    # - identifier: dropdown
-    #   title: Example dropdown menu
-    #   name: Dropdown
-    #   weight: 3
-    # - identifier: dropdown1
-    #   title: example dropdown 1
-    #   name: example 1
-    #   url: /#
-    #   parent: dropdown
-    #   weight: 1
-    # - identifier: dropdown2
-    #   title: example dropdown 2
-    #   name: example 2
-    #   url: /#
-    #   parent: dropdown
-    #   weight: 2
+#Dropdown menu
+# - identifier: dropdown
+#   title: Example dropdown menu
+#   name: Dropdown
+#   weight: 3
+# - identifier: dropdown1
+#   title: example dropdown 1
+#   name: example 1
+#   url: /#
+#   parent: dropdown
+#   weight: 1
+# - identifier: dropdown2
+#   title: example dropdown 2
+#   name: example 2
+#   url: /#
+#   parent: dropdown
+#   weight: 2
 
 params:
   title: "Hugo Profile"
@@ -90,7 +90,7 @@ params:
   # If you want to customize the menu, you can change it here
   navbar:
     align: ms-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
-#    brandLogo: "/images/laptop.jpg" # Logo for the brand | default is the favicon variable
+    #    brandLogo: "/images/laptop.jpg" # Logo for the brand | default is the favicon variable
     showBrandLogo: false # Show brand logo in nav bar | default is true
     brandName: "Home" # Brand name for the brand | default is the title variable
     disableSearch: true
@@ -108,8 +108,7 @@ params:
     intro: "Hi, my name is"
     title: "Bianca."
     subtitle: "Front-end software developer passionate about solving problems"
-    content: "Passionate about solving problems using technology. 
-    I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
+    content: "I have invested more than 400 hours solving algorithmic problems to develop my programming mindset and have built projects to practice working with programming languages and technologies. I work hard for my dream because I believe that hard work surpasses talent."
     image: /images/profile-image.jpg
     # roundImage: true # Make hero image circular | default false
     button:
@@ -132,10 +131,11 @@ params:
     image: "/images/profile2.jpg"
     content: |-
 
-      I am only one more drop in this ocean of people, trying to get better, evolve and do or, at least, try to make other people's lives better. I know we can do good to people in so many ways, but with the help of technology I think we can greatly facilitate people's lives.
+      Passionate about personal growth and making a positive impact, I envision myself as a small but determined entity within the vast ocean of individuals dedicated to improving lives. Although my initial inclination led me toward the field of medicine, I discovered a lingering sense of unfulfillment. It was during this period of introspection that I turned my attention toward my brother, a programmer, and began to explore the fascinating world he was immersed in. Eager to understand the intricacies of programming, I eagerly sought his guidance, posing countless questions and diving deep into the subject matter.
       
-      Following the programming course, I am more motivated and determined than ever. I want to invest in myself and the company I will work for, not to remain only at the stage of passion, but to become a professional.
-    
+      Summoning the courage to step out of my comfort zone, I abandoned my previous job and ventured into the world of programming. Fueling my curiosity, I enrolled in a comprehensive programming course, eager to acquire new knowledge and skills.
+      
+      Following the programming course, I am more motivated and determined than ever. I stand resolute and fully committed to my journey in front-end programming. Each step I take is driven by my determination to grow, learn, and make a meaningful impact in this ever-evolving field.    
 
     skills:
       enable: true
@@ -163,8 +163,14 @@ params:
       - job: "Software Developer Trainee"
         company: "Just code IT"
         url: "https://www.justcodeit.ro/"
-        date: "2022-20323"
-        content: " | "
+        date: "2022-2023"
+        content: " | Acquired a solid understanding of HTML, CSS, and JavaScript |
+Learned to build dynamic and interactive web applications using Vue.js - utilizing components, directives, and state management techniques |
+Utilized Git and GitHub for effective version control |
+Applied Bootstrap framework to develop responsive and visually appealing web applications |
+Leveraged Firebase services to implement real-time data storage, user authentication |
+Demonstrated strong problem-solving skills and proficiency in implementing efficient algorithms |
+Gained familiarity with database concepts"
       - job: "Dental Assistant"
         company: "Stomestet"
         url: "https://stomestet.ro/"
@@ -216,11 +222,11 @@ params:
     # title: "Custom Name"
     items:
       - title: Shopping app
-        content: A highly customizable and mobile first Hugo template for personal portfolio and blog.
+        content: The shopping app I worked on offers a user-friendly interface, convenient authentication and favorites features, as well as an efficient browsing, searching and make online purchases. It aims to provide users with an enjoyable and hassle-free online shopping experience.
         image: /images/projects/profile.png
         featured:
           name: Demo
-          link: https://hugo-profile.netlify.app
+          link: https://shopping-app-meduzza.netlify.app/
         badges:
           - "VueJs"
           - "Firebase Auth"
@@ -230,40 +236,107 @@ params:
         links:
           - icon: fab fa-github
             url: https://github.com/gurusabarish/hugo-profile
-      - title: Image Converter
-        content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
+      - title: Events app
+        content: This events app on is designed to simplify the process of discovering and attending various events. Users can easily search for events based on their interests and location. They can select the event they are interested in attending and securely purchase tickets with just a few clicks.
         image: /images/projects/converter.jpg
         featured:
           name: Demo
-          link: https://django-converter.herokuapp.com
+          link: https://eventgo-app.netlify.app/
         badges:
-          - "Django"
-          - "Bootstrap"
+            - "VueJs"
+            - "Bootstrap"
+            - "Javascript"
         links:
           - icon: fab fa-github
             url: https://github.com/gurusabarish/converter
-      - title: Hugo Profile V2
-        content: A clean and simple Hugo template for personal portfolio and blog.
+      - title: Recipe app
+        content: The recipe app I worked on is a fantastic tool for culinary enthusiasts and home cooks alike. It allows users to add their own recipes or search recipes by name or category, providing a platform for sharing and discovering a wide range of delicious dishes.
         image: /images/projects/profile2.jpg
         featured:
-          name: Demo V2
-          link: https://hugo-profile-2.netlify.app
+          name: Demo
+          link: https://recipe-app-sele.netlify.app/
         badges:
-          - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
+             - "VueJs"
+             - "Bootstrap"
+             - "Javascript"
         links:
           - icon: fab fa-github
             url: https://github.com/gurusabarish/HugoProfileV2
+      - title: Movie app
+        content: This movie app offers a seamless experience for movie enthusiasts. With this app, users can easily search for movies based on their preferences. The app categorizes movies by genre, allowing users to browse through different categories and discover films that align with their interests.
+        image: /images/projects/converter.jpg
+        featured:
+          name: Demo
+          link: https://movies-app11.netlify.app/
+        badges:
+            - "jQuery"
+            - "Bootstrap"
+            - "Javascript"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/gurusabarish/converter
+      - title: Food diary
+        content: With this app, users have the ability to add various food items, categorize them, and input their nutritional information such as calories and price. Additionally, the app offers filtering options based on price and calories.
+        image: /images/projects/converter.jpg
+        featured:
+          name: Demo
+          link: https://food-diary1.netlify.app/
+        badges:
+            - "HTML"
+            - "CSS"
+            - "Javascript"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/gurusabarish/converter
 
+      - title: Background Color Picker
+        content: The Background Color Picker app I worked on allows users to easily change the background color with just a click.
+        image: /images/projects/converter.jpg
+        featured:
+          name: Demo
+          link: https://background-color-picker1.netlify.app/
+        badges:
+            - "Vue.js"
+            - "Javascript"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/gurusabarish/converter
 
   #Contact
-  enable: true
-  # title: "Custom Name"
-  content: "My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!"
-  email: "bianca.seleveschi@gmail.com"
-  socialNetworks:
-    github: "https://github.com/BiancaSeleveschi?tab=repositories"
-    linkedin: "https://www.linkedin.com/in/bianca-seleveschi/"
+  contact:
+    enable: true
+    # title: "Custom Name"
+    content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
+    email: bianca.seleveschi@gmail.com
+    btnName: Mail me
+    # formspree:
+    #   enable: true # `contact.email` value will be ignored
+    #   formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
+    #   emailCaption: "Enter your email address"
+    #   messageCaption: "Enter your message here"
 
-
+  footer:
+    socialNetworks:
+      github: https://github.com/BiancaSeleveschi/BiancaSeleveschi
+      linkedin: https://www.linkedin.com/in/bianca-seleveschi/
+    # List pages like blogs and posts
+    listPages:
+      disableFeaturedImage: false
+    # Single pages like blog and post
+    singlePages:
+      readTime:
+        enable: true
+        content: "min read"
+      scrollprogress:
+        enable: true
+    # For translations
+    terms:
+      read: "Read"
+      toc: "Table Of Contents"
+      copyright: "All rights reserved"
+      pageNotFound: "Page not found"
+      emailText: "Check out this site"
+    datesFormat:
+      article: "Jan 2, 2006"
+      articleList: "Jan 2, 2006"
+      articleRecent: "Jan 2, 2006"
