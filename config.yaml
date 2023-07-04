@@ -120,7 +120,7 @@ params:
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
-          url: https://github.com/BiancaSeleveschi?tab=repositories
+          url: https://github.com/BiancaSeleveschi/BiancaSeleveschi
         - icon: fab fa-linkedin
           url: https://www.linkedin.com/in/bianca-seleveschi/
 
@@ -147,6 +147,7 @@ params:
         - "CSS"
         - "JavaScript"
         - "Git"
+        - "GitHub"
         - "Algorithms"
         - "Data Structures"
         - "jQuery"
@@ -238,7 +239,7 @@ Gained familiarity with database concepts"
             url: https://github.com/gurusabarish/hugo-profile
       - title: Events app
         content: This events app on is designed to simplify the process of discovering and attending various events. Users can easily search for events based on their interests and location. They can select the event they are interested in attending and securely purchase tickets with just a few clicks.
-        image: /images/projects/converter.jpg
+        image: /images/projects/shopp-app-image-png
         featured:
           name: Demo
           link: https://eventgo-app.netlify.app/
@@ -251,7 +252,7 @@ Gained familiarity with database concepts"
             url: https://github.com/gurusabarish/converter
       - title: Recipe app
         content: The recipe app I worked on is a fantastic tool for culinary enthusiasts and home cooks alike. It allows users to add their own recipes or search recipes by name or category, providing a platform for sharing and discovering a wide range of delicious dishes.
-        image: /images/projects/profile2.jpg
+        image: /images/projects/shopp-app-image-png
         featured:
           name: Demo
           link: https://recipe-app-sele.netlify.app/
