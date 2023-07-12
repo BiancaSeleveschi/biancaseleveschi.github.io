@@ -114,7 +114,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "/cv-bia-sele.pdf"
+      url: "/cv-bianca-seleveschi.pdf"
       download: true
       newPage: false
     socialLinks:
