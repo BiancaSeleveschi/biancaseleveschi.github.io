@@ -108,13 +108,13 @@ params:
     intro: "Hi, my name is"
     title: "Bianca."
     subtitle: "Front-end software developer passionate about solving problems"
-    content: "I have invested more than 400 hours solving algorithmic problems to develop my programming mindset and have built projects to practice working with programming languages and technologies. I work hard for my dream because I believe that hard work surpasses talent."
+    content: "I have invested more than 400 hours solving algorithmic problems to develop my programming mindset. Beyond this, I've built real-world projects using a variety of technologies, from Javascript and jQuery to Vue.js, Vuex, and Firebase. I am committed and ready to put in the necessary effort to evolve into the best front-end programmer I know I can be."
     image: /images/profile-image.jpg
     # roundImage: true # Make hero image circular | default false
     button:
       enable: true
       name: "Resume"
-      url: "/cv-bianca-seleveschi.pdf"
+      url: "/cv-bia-sele.pdf"
       download: true
       newPage: false
     socialLinks:
@@ -131,29 +131,38 @@ params:
     image: "/images/profile2.jpg"
     content: |-
 
-      I admire people who strive to do good, become better and evolve continuously, and I try to be such a person myself. At first, I thought my path was in medicine, but something was missing. It was during some serious soul-searching that I stumbled upon the world of programming through my brother, who's a programmer himself. I was intrigued and I asked him many questions, eager to understand more.
+      After finishing high school, I thought pursuing a career in medicine was the safest choice. I spent some time in this profession, but I found my role lacked the mental stimulation I wanted. It simply did not feel right.
+
+      Meanwhile, I had always been interested in technology. Even though many people told me it wasn't a good field for women, I couldn't help being curious.
       
-      So, I asked myself, "What if I try?"
-      With a mix of excitement and nerves, I thought to myself, "Will I regret it if I don't take this chance in five years?" That question gave me the answer I needed. Without hesitation, I made the decision to pursue programming. I enrolled in a comprehensive course, eager to expand my skills and knowledge in this field.
-    
-      Now, one year later, I'm all in my journey as a front-end programmer. I'm focused on growth and constantly learning.
+      The change happened when my brother decided to become a programmer. Watching his focus and excitement for every task made me feel the same way. I saw his first steps into a programming career and I wanted to follow that path too.
+      
+      That was the moment where I decided to start my own programming journey!
+      
+      I recall the countless nights solving algorithmic problems in code, it was so thrilling. The technical curiosity I had, held me captive to solve “just one more problem”. Time seemed to slip away unnoticed.
+      
+      Looking back, I can see the journey was full of engaging challenges and a lot of work. However, it brought me immense joy and fulfillment. I'm glad I made the choice to switch paths when I did.
+      
+      How did I navigate this transformative journey?
+      
+      I signed up for an intensive programming course. I believe this was one of the best decisions of my life. The course was well-structured and helped me understand the field better. I spent over 400 hours solving problems, which improved my programming skills.
+      
+      I also worked on many projects. This gave me hands-on experience with programming languages like JavaScript and Vue.js. I learned how the front end of software applications works. This experience built a strong foundation in programming principles and problem-solving.
     skills:
       enable: true
       title: "Throughout my journey, I have gained experience working with technologies such as:"
       items:
-        - "Vue.js"
-        - "Vuex"
-        - "HTML"
-        - "CSS"
-        - "JavaScript"
-        - "Git"
-        - "GitHub"
-        - "Algorithms"
-        - "Data Structures"
-        - "jQuery"
-        - "Firebase"
+        - "Programming Fundamentals in Javascript"
+        - "Firebase ecosystem (Authentication, Firestore, Storage)"
+        - "Algorithms and Data structures"
+        - "JQuery"
+        - "HTML and CSS"
+        - "Git and Github"
         - "Bootstrap"
-
+        - "VueJs an Vuex"
+        - "Netlify"
+        - "APIs"
+        - "NPM"
 
 
   # Experience
@@ -165,13 +174,16 @@ params:
         company: "Just code IT"
         url: "https://www.justcodeit.ro/"
         date: "2022-2023"
-        content: " | Acquired a solid understanding of HTML, CSS, and JavaScript |
-Learned to build dynamic and interactive web applications using Vue.js - utilizing components, directives, and state management techniques |
-Utilized Git and GitHub for effective version control |
-Applied Bootstrap framework to develop responsive and visually appealing web applications |
-Leveraged Firebase services to implement real-time data storage, user authentication |
-Demonstrated strong problem-solving skills and proficiency in implementing efficient algorithms |
-Gained familiarity with database concepts"
+        content: " | 
+Acquired a solid understanding of HTML, CSS, and JavaScript | 
+Learned Jquery and developed small projects using Javascript and Jquery | 
+Acquired strong problem-solving skills and proficiency in implementing efficient algorithms | 
+Learned to build dynamic and interactive web applications using Vue.js and Vuex | 
+Gained familiarity with the Firebase ecosystem, including Authentication, Firestore, and Storage | 
+Utilized Git and GitHub for effective version control | 
+Applied Bootstrap framework to develop responsive and visually appealing web applications | 
+Leveraged Firebase services to implement real-time data storage, user authentication | 
+Utilized Netlify for hosting the web application built"
       - job: "Dental Assistant"
         company: "Stomestet"
         url: "https://stomestet.ro/"
@@ -244,9 +256,9 @@ Gained familiarity with database concepts"
           name: Demo
           link: https://eventgo-app.netlify.app/
         badges:
-            - "VueJs"
-            - "Bootstrap"
-            - "Javascript"
+          - "VueJs"
+          - "Bootstrap"
+          - "Javascript"
         links:
           - icon: fab fa-github
             url: https://github.com/gurusabarish/converter
@@ -257,9 +269,9 @@ Gained familiarity with database concepts"
           name: Demo
           link: https://recipe-app-sele.netlify.app/
         badges:
-             - "VueJs"
-             - "Bootstrap"
-             - "Javascript"
+          - "VueJs"
+          - "Bootstrap"
+          - "Javascript"
         links:
           - icon: fab fa-github
             url: https://github.com/gurusabarish/HugoProfileV2
@@ -270,9 +282,9 @@ Gained familiarity with database concepts"
           name: Demo
           link: https://movies-app11.netlify.app/
         badges:
-            - "jQuery"
-            - "Bootstrap"
-            - "Javascript"
+          - "jQuery"
+          - "Bootstrap"
+          - "Javascript"
         links:
           - icon: fab fa-github
             url: https://github.com/gurusabarish/converter
@@ -283,9 +295,9 @@ Gained familiarity with database concepts"
           name: Demo
           link: https://food-diary1.netlify.app/
         badges:
-            - "HTML"
-            - "CSS"
-            - "Javascript"
+          - "HTML"
+          - "CSS"
+          - "Javascript"
         links:
           - icon: fab fa-github
             url: https://github.com/gurusabarish/converter
@@ -297,8 +309,8 @@ Gained familiarity with database concepts"
           name: Demo
           link: https://weather111-app.netlify.app/
         badges:
-            - "Vue.js"
-            - "Javascript"
+          - "Vue.js"
+          - "Javascript"
         links:
           - icon: fab fa-github
             url: https://github.com/gurusabarish/converter
