@@ -288,19 +288,19 @@ Utilized Netlify for hosting the web application built"
         links:
           - icon: fab fa-github
             url: https://github.com/gurusabarish/converter
-      - title: Food diary
-        content: The food diary app is a valuable tool for food lovers and those who want to improve their eating habits. With this app, users have the ability to add various food items, categorize them, and input their nutritional information such as calories and price. Additionally, the app offers filtering options based on price and calories.
-        image: /images/projects/food-diary-image.jpg
-        featured:
-          name: Demo
-          link: https://food-diary1.netlify.app/
-        badges:
-          - "HTML"
-          - "CSS"
-          - "Javascript"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/converter
+#      - title: Food diary
+#        content: The food diary app is a valuable tool for food lovers and those who want to improve their eating habits. With this app, users have the ability to add various food items, categorize them, and input their nutritional information such as calories and price. Additionally, the app offers filtering options based on price and calories.
+#        image: /images/projects/food-diary-image.jpg
+#        featured:
+#          name: Demo
+#          link: https://food-diary1.netlify.app/
+#        badges:
+#          - "HTML"
+#          - "CSS"
+#          - "Javascript"
+#        links:
+#          - icon: fab fa-github
+#            url: https://github.com/gurusabarish/converter
 
       - title: Weather app
         content: Stay up to date with the weather app, providing you with the latest weather forecast for the day. Plan your activities accordingly and make the most of your day with real-time weather information at your fingertips.
@@ -311,6 +311,7 @@ Utilized Netlify for hosting the web application built"
         badges:
           - "Vue.js"
           - "Javascript"
+          - "Bootstrap"
         links:
           - icon: fab fa-github
             url: https://github.com/gurusabarish/converter
@@ -324,6 +325,7 @@ Utilized Netlify for hosting the web application built"
         badges:
           - "Vue.js"
           - "Javascript"
+          - "Bootstrap"
         links:
           - icon: fab fa-github
             url: https://github.com/gurusabarish/converter
