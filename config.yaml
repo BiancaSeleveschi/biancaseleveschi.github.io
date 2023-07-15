@@ -161,7 +161,7 @@ params:
         - "Bootstrap"
         - "VueJs an Vuex"
         - "Netlify"
-        - "APIs"
+        - "REST APIs"
         - "NPM"
 
 
@@ -174,34 +174,35 @@ params:
         company: "Just code IT"
         url: "https://www.justcodeit.ro/"
         date: "2022-2023"
-        content: " | 
-Acquired a solid understanding of HTML, CSS, and JavaScript | 
-Learned Jquery and developed small projects using Javascript and Jquery | 
-Acquired strong problem-solving skills and proficiency in implementing efficient algorithms | 
-Learned to build dynamic and interactive web applications using Vue.js and Vuex | 
-Gained familiarity with the Firebase ecosystem, including Authentication, Firestore, and Storage | 
-Utilized Git and GitHub for effective version control | 
-Applied Bootstrap framework to develop responsive and visually appealing web applications | 
-Leveraged Firebase services to implement real-time data storage, user authentication | 
+        content: " 
+ -> Acquired a solid understanding of HTML, CSS, and JavaScript </br> -> 
+Learned Jquery and developed small projects using Javascript and Jquery </br> -> 
+Acquired strong problem-solving skills and proficiency in implementing efficient algorithms </br> -> 
+Learned to build dynamic and interactive web applications using Vue.js and Vuex </br> -> 
+Gained familiarity with the Firebase ecosystem, including Authentication, Firestore, and Storage </br> -> 
+Utilized Git and GitHub for effective version control </br> -> 
+Applied Bootstrap framework to develop responsive and visually appealing web applications </br> -> 
+Leveraged Firebase services to implement real-time data storage, user authentication </br> -> 
 Utilized Netlify for hosting the web application built"
       - job: "Dental Assistant"
         company: "Stomestet"
         url: "https://stomestet.ro/"
         date: "Nov 2021 - June 2022"
-        content: " | Preparing patients for dental work 
-        |  Helping with infection control by sterilizing and disinfecting instruments, setting up instrument trays, preparing materials, and assisting with dental procedures
-        |  Assisting dentists in managing medical and dental emergencies when necessary
-         | Forming preliminary impressions for study casts and occlusal registrations for mounting study casts
-         | Ordering dental supplies and maintaining dental equipment inventory"
+        content: " 
+         -> Preparing patients for dental work </br>
+         -> Helping with infection control by sterilizing and disinfecting instruments, setting up instrument trays, preparing materials, and assisting with dental procedures </br>
+         -> Assisting dentists in managing medical and dental emergencies when necessary </br>
+         -> Ordering dental supplies and maintaining dental equipment inventory"
       - job: "Dental Assistant"
         company: "Cosem"
         date: "Nov 2016 - April 2018"
         url: "https://www.cosem.fr/"
-        content: "  | Preparing patients for dental work
-       | Helping with infection control by sterilizing and disinfecting instruments, setting up instrument trays, preparing materials, and assisting with dental procedures
-       | Assisting dentists in managing medical and dental emergencies when necessary
-       | Assisting dental hygienists with procedures when necessary
-      | Providing postoperative instructions as directed by the dentist"
+        content: "  
+         -> Assisting dentists in managing medical and dental emergencies when necessary </br>
+         -> Preparing patients for dental work </br>
+         -> Assisting dental hygienists with procedures when necessary </br>
+         -> Helping with infection control by sterilizing and disinfecting instruments, setting up instrument trays, preparing materials, and assisting with dental procedures </br>
+         -> Providing postoperative instructions as directed by the dentist"
 
 
   # Education
@@ -248,7 +249,7 @@ Utilized Netlify for hosting the web application built"
           - "Javascript"
         links:
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/hugo-profile
+            url: https://github.com/BiancaSeleveschi/shopping-website-app
       - title: Events app
         content: The events app is designed to enhance your event-going experience. Users can easily search for events based on their interests and location. They can select the event they are interested in attending and securely purchase tickets with just a few clicks.
         image: /images/projects/events-app.jpg
@@ -261,7 +262,7 @@ Utilized Netlify for hosting the web application built"
           - "Javascript"
         links:
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/converter
+            url: https://github.com/BiancaSeleveschi/events-app1
       - title: Recipe app
         content: The recipe app is a fantastic tool for culinary enthusiasts and home cooks alike. It allows users to add their own recipes or search recipes by name or category, providing a platform for sharing and discovering a wide range of delicious dishes.
         image: /images/projects/recipe-app.jpg
@@ -274,7 +275,7 @@ Utilized Netlify for hosting the web application built"
           - "Javascript"
         links:
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/HugoProfileV2
+            url: https://github.com/BiancaSeleveschi/recipe-app
       - title: Movie app
         content: This movie app offers a seamless experience for movie enthusiasts. With this app, users can easily search for movies based on their preferences. It sorts movies by genre, so you can explore them and also dive into juicy details.
         image: /images/projects/movie-app-image.jpg
@@ -287,7 +288,7 @@ Utilized Netlify for hosting the web application built"
           - "Javascript"
         links:
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/converter
+            url: https://github.com/BiancaSeleveschi/movies-app
 #      - title: Food diary
 #        content: The food diary app is a valuable tool for food lovers and those who want to improve their eating habits. With this app, users have the ability to add various food items, categorize them, and input their nutritional information such as calories and price. Additionally, the app offers filtering options based on price and calories.
 #        image: /images/projects/food-diary-image.jpg
@@ -300,7 +301,7 @@ Utilized Netlify for hosting the web application built"
 #          - "Javascript"
 #        links:
 #          - icon: fab fa-github
-#            url: https://github.com/gurusabarish/converter
+#            url: https://github.com/BiancaSeleveschi/jurnal-alimentar
 
       - title: Weather app
         content: Stay up to date with the weather app, providing you with the latest weather forecast for the day. Plan your activities accordingly and make the most of your day with real-time weather information at your fingertips.
@@ -314,7 +315,7 @@ Utilized Netlify for hosting the web application built"
           - "Bootstrap"
         links:
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/converter
+            url: https://github.com/BiancaSeleveschi/weather-app
 
       - title: Background Color Picker
         content: The Background Color Picker app allows users to easily change the background color with just a click.
@@ -328,7 +329,7 @@ Utilized Netlify for hosting the web application built"
           - "Bootstrap"
         links:
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/converter
+            url: https://github.com/BiancaSeleveschi/background-color-picker
 
   #Contact
   contact:
