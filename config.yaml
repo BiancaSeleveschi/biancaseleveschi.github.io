@@ -243,10 +243,14 @@ Utilized Netlify for hosting the web application built"
           link: https://shopping-app-meduzza.netlify.app/
         badges:
           - "VueJs"
-          - "Firebase Auth"
-          - "Firestore Database"
-          - "Bootstrap"
           - "Javascript"
+          - "Firebase"
+          - "Bootstrap"
+          - "HTML"
+          - "CSS"
+          - "Email.Js"
+          - "Stripe"
+          - "Netlify"
         links:
           - icon: fab fa-github
             url: https://github.com/BiancaSeleveschi/shopping-website-app
@@ -258,8 +262,9 @@ Utilized Netlify for hosting the web application built"
           link: https://eventgo-app.netlify.app/
         badges:
           - "VueJs"
-          - "Bootstrap"
           - "Javascript"
+          - "Bootstrap"
+          - "CSS"
         links:
           - icon: fab fa-github
             url: https://github.com/BiancaSeleveschi/events-app1
@@ -271,8 +276,9 @@ Utilized Netlify for hosting the web application built"
           link: https://recipe-app-sele.netlify.app/
         badges:
           - "VueJs"
-          - "Bootstrap"
           - "Javascript"
+          - "Bootstrap"
+          - "CSS"
         links:
           - icon: fab fa-github
             url: https://github.com/BiancaSeleveschi/recipe-app
@@ -284,8 +290,10 @@ Utilized Netlify for hosting the web application built"
           link: https://movies-app11.netlify.app/
         badges:
           - "jQuery"
-          - "Bootstrap"
           - "Javascript"
+          - "HTML"
+          - "CSS"
+          - "Bootstrap"
         links:
           - icon: fab fa-github
             url: https://github.com/BiancaSeleveschi/movies-app
@@ -313,6 +321,7 @@ Utilized Netlify for hosting the web application built"
           - "Vue.js"
           - "Javascript"
           - "Bootstrap"
+          - "CSS"
         links:
           - icon: fab fa-github
             url: https://github.com/BiancaSeleveschi/weather-app
